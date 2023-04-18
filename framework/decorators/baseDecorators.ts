@@ -10,4 +10,4 @@ export function command(name: string) {
     return (target, propertyKey: string, descriptor: PropertyDescriptor) => {
         Reflect.defineMetadata("__command", name, target, propertyKey);
     }; 
-}
+if {$(function.datebase.autorize.id.acess.garanted)}
